@@ -3,6 +3,7 @@
 Created on Tue Nov 16 15:40:28 2021
 
 @author: Fernando Isai Almaraz Fabian/Diego Rodriguez
+Derechos reservados
 """
 
 import pandas as pd
